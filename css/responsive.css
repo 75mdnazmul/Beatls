@@ -1,0 +1,697 @@
+@media (min-width:0px) and (max-width:575.99px) {
+
+    .container {
+        width: 470px;
+    }
+
+    /* Header part is start =========================*/
+    #header {
+        height: 25px;
+    }
+
+    .header_text {
+        font-size: 10px;
+    }
+
+    /* navber part is Start =========================*/
+    .navber {
+        height: 40px;
+    }
+
+    .nav_menu ul li {
+        padding-left: 14px;
+    }
+
+    .nav_menu ul li a {
+        font-size: 11px;
+    }
+
+    .nav_logo img {
+        width: 40px;
+    }
+
+    /* banner part is start ========================= */
+    #banner {
+        height: 230px;
+        width: auto;
+    }
+
+    .banner_text {
+        width: auto;
+    }
+
+    .banner_text h2 {
+        padding: 10px 0 0px;
+        font-size: 25px;
+        text-align: center;
+    }
+
+    .banner_text h1 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .banner_text p {
+        width: auto;
+        height: auto;
+        font-size: 14px;
+        line-height: 20px;
+        text-align: center;
+    }
+
+    .banner_btn {
+        text-align: center;
+        padding-top: 16px;
+    }
+
+    .banner_btn .icon {
+        margin: 0 10px;
+    }
+
+    /* About part is start ========================= */
+
+    .about_headtext h2 {
+        padding: 30px 0 0 0;
+        font-size: 30px;
+    }
+
+    .about_headtext img {
+        padding: 0 0 0 180px;
+    }
+
+    .about_2nd .about_img img {
+        width: 200px;
+    }
+
+    .about_2nd {
+        padding: 30px 0px 0px 0;
+    }
+
+    .about_text {
+        padding: 0px 0 0 10px;
+        line-height: 20px;
+        text-align: justify;
+    }
+
+    .about_text :nth-child(1) {
+        padding-bottom: 5px;
+    }
+
+    /* Service part is Start ========================= */
+    .service {
+        text-align: center;
+    }
+
+    .service_headtext h2 {
+        padding: 30px 0 0 0;
+        font-size: 30px;
+    }
+
+    .service_headtext img {
+        padding: 0;
+    }
+
+    .service_box {
+        display: inline-block;
+        text-align: center;
+    }
+
+    .ser_items {
+        width: auto;
+        margin-bottom: 60px;
+    }
+
+    /* Portfolio part id Start ========================= */
+    .Portfolio {
+        text-align: center;
+    }
+
+    .Portfolio_headtext h2 {
+        padding: 30px 0 0 0;
+        font-size: 30px;
+    }
+
+    .Portfolio_headtext img {
+        padding: 0;
+    }
+
+    .Portfolio_images {
+        display: inline-block;
+    }
+
+    .port_img {
+        margin-bottom: 40px;
+    }
+
+    .port_img img {
+        width: 350px;
+        border-radius: 20px;
+    }
+
+    .port_overlay {
+        border-radius: 20px;
+    }
+
+    .port_img {
+        border-radius: 20px;
+    }
+
+    /* TEAM part is Start ========================= */
+    .team {
+        text-align: center;
+    }
+
+    .team_headtext h2 {
+        padding: 30px 0 0 0;
+        font-size: 30px;
+    }
+
+    .team_headtext img {
+        padding: 0;
+    }
+
+    .team_items {
+        display: inline-block;
+    }
+
+    .team_content {
+        width: 350px;
+        margin-bottom: 20px;
+    }
+
+    .team_content .team_img img {
+        width: 350px;
+    }
+
+    .team_overlay i {
+        width: 60px;
+        height: 60px;
+        font-size: 35px;
+        margin: 30px 5px 0px;
+        border: 3px solid #fff;
+        padding-top: 10px;
+    }
+
+    /* Testimonial part is Start ========================= */
+    .Testimonial_headtext h2 {
+        padding: 30px 0 0 0;
+        font-size: 30px;
+    }
+
+    .Testimonial_headtext img {
+        padding: 0 0 0 160px;
+    }
+
+    .testi_items {
+        display: block;
+        text-align: center;
+    }
+
+    .testi_left {
+        margin-bottom: 20px;
+    }
+
+    .testi_items img {
+        padding-bottom: 45px;
+    }
+
+    /* Footer part is Start ========================= */
+    .footer {
+        width: 470px;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        row-gap: 20px;
+    }
+
+    .filck_img img {
+        width: 130px;
+    }
+
+    /* ========================= */
+
+}
+
+/* ############################################################################ */
+
+@media(min-width:576px) and (max-width:767.99px) {
+
+    .container {
+        width: 600px;
+    }
+
+    /* Header part is start =========================*/
+    #header {
+        height: 25px;
+    }
+
+    .header_text {
+        font-size: 10px;
+    }
+
+    /* navber part is Start =========================*/
+    .navber {
+        height: 40px;
+    }
+
+    .nav_menu ul li {
+        padding-left: 14px;
+    }
+
+    .nav_menu ul li a {
+        font-size: 11px;
+    }
+
+    .nav_logo img {
+        width: 40px;
+    }
+
+    /* banner part is start ========================= */
+    #banner {
+        height: 230px;
+        width: auto;
+    }
+
+    .banner_text {
+        width: auto;
+    }
+
+    .banner_text h2 {
+        padding: 10px 0 0px;
+        font-size: 25px;
+        text-align: center;
+    }
+
+    .banner_text h1 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .banner_text p {
+        width: auto;
+        height: auto;
+        font-size: 14px;
+        line-height: 20px;
+        text-align: center;
+    }
+
+    .banner_btn {
+        text-align: center;
+        padding-top: 16px;
+    }
+
+    .banner_btn .icon {
+        margin: 0 10px;
+    }
+
+    /* About part is start ========================= */
+
+    .about_headtext h2 {
+        padding: 30px 0 0 0;
+        font-size: 30px;
+    }
+
+    .about_headtext img {
+        padding: 0 0 0 180px;
+    }
+
+    .about_2nd .about_img img {
+        width: 200px;
+    }
+
+    .about_2nd {
+        padding: 30px 0px 0px 0;
+    }
+
+    .about_text {
+        padding: 0px 0 0 10px;
+        line-height: 20px;
+        text-align: justify;
+    }
+
+    .about_text :nth-child(1) {
+        padding-bottom: 5px;
+    }
+
+    /* Service part is Start ========================= */
+    .service {
+        text-align: center;
+    }
+
+    .service_headtext h2 {
+        padding: 30px 0 0 0;
+        font-size: 30px;
+    }
+
+    .service_headtext img {
+        padding: 0;
+    }
+
+    .service_box {
+        display: inline-block;
+        text-align: center;
+    }
+
+    .ser_items {
+        width: auto;
+        margin-bottom: 60px;
+    }
+
+    /* Portfolio part id Start ========================= */
+    .Portfolio {
+        text-align: center;
+    }
+
+    .Portfolio_headtext h2 {
+        padding: 30px 0 0 0;
+        font-size: 30px;
+    }
+
+    .Portfolio_headtext img {
+        padding: 0;
+    }
+
+    .Portfolio_images {
+        display: inline-block;
+    }
+
+    .port_img {
+        margin-bottom: 40px;
+    }
+
+    .port_img img {
+        width: 500px;
+        border-radius: 20px;
+    }
+
+    .port_overlay {
+        border-radius: 20px;
+    }
+
+    .port_img {
+        border-radius: 20px;
+    }
+
+    /* TEAM part is Start ========================= */
+    .team {
+        text-align: center;
+    }
+
+    .team_headtext h2 {
+        padding: 30px 0 0 0;
+        font-size: 30px;
+    }
+
+    .team_headtext img {
+        padding: 0;
+    }
+
+    .team_items {
+        display: inline-block;
+    }
+
+    .team_content {
+        width: 500px;
+        margin-bottom: 20px;
+    }
+
+    .team_content .team_img img {
+        width: 500px;
+    }
+
+    .team_overlay i {
+        width: 100px;
+        height: 100px;
+        font-size: 60px;
+        margin: 30px 5px 10px;
+        border: 5px solid #fff;
+        padding-top: 30px;
+    }
+
+    /* Testimonial part is Start ========================= */
+    #Testimonial {
+        text-align: center;
+    }
+
+    .Testimonial_headtext h2 {
+        padding: 30px 0 0 0;
+        font-size: 30px;
+    }
+
+    .Testimonial_headtext img {
+        padding: 0 0 0 160px;
+    }
+
+    .testi_items {
+        display: inline-block;
+        text-align: center;
+    }
+
+    .testi_left {
+        margin-bottom: 20px;
+    }
+
+    .testi_items img {
+        padding-bottom: 45px;
+    }
+
+    /* Footer part is Start ========================= */
+    .footer {
+        width: 470px;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        row-gap: 20px;
+    }
+
+    .filck_img img {
+        width: 130px;
+    }
+
+    /* ========================= */
+}
+
+/* ############################################################################ */
+
+@media(min-width:768px) and (max-width:991.99px) {
+
+    .container {
+        width: 680px;
+    }
+
+    /* Header part is start =========================*/
+    #header {
+        height: 30px;
+    }
+
+    .header_text {
+        font-size: 12px;
+    }
+
+    /* navber part is Start =========================*/
+    .navber {
+        height: 45px;
+    }
+
+    .nav_menu ul li {
+        padding-left: 18px;
+    }
+
+    .nav_menu ul li a {
+        font-size: 16px;
+    }
+
+    .nav_logo img {
+        width: 50px;
+    }
+
+    /* banner part is start ========================= */
+    #banner {
+        height: 230px;
+        width: auto;
+    }
+
+    .banner_text {
+        width: auto;
+        text-align: right;
+    }
+
+    .banner_text h2 {
+        padding: 10px 0 0px;
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .banner_text h1 {
+        font-size: 25px;
+        text-align: center;
+    }
+
+    .banner_text p {
+        width: auto;
+        height: auto;
+        font-size: 14px;
+        line-height: 20px;
+        text-align: center;
+    }
+
+    .banner_btn {
+        text-align: center;
+        padding-top: 16px;
+    }
+
+    .banner_btn .icon {
+        margin: 0 20px;
+    }
+
+    /* About part is start ========================= */
+
+    .about_headtext h2 {
+        padding: 30px 0 0 0;
+        font-size: 24px;
+    }
+
+    .about_headtext img {
+        padding: 0 0 0 340px;
+    }
+
+    .about_2nd .about_img img {
+        width: 300px;
+    }
+
+    .about_2nd {
+        padding: 30px 0px 0px 0px;
+    }
+
+    .about_text {
+        padding: 0px 0 0 50px;
+        line-height: 20px;
+        text-align: justify;
+    }
+
+    .about_text :nth-child(1) {
+        padding-bottom: 5px;
+    }
+
+    /* Service part is Start ========================= */
+    .service_headtext h2 {
+        padding: 30px 0 0 0;
+        font-size: 24px;
+    }
+
+    .service_headtext img {
+        padding: 0 0 0 320px;
+    }
+
+    .ser_items {
+        width: 210px;
+        margin-bottom: 30px;
+    }
+
+    /* Portfolio part id Start ========================= */
+    .Portfolio_headtext h2 {
+        padding: 30px 0 0 0;
+        font-size: 24px;
+    }
+
+    .Portfolio_headtext img {
+        padding: 0 0 0 280px;
+    }
+
+    .Portfolio_images {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        justify-items: center;
+    }
+
+    .port_img {
+        margin-bottom: 20px;
+    }
+
+    .port_img img {
+        width: 210px;
+        border-radius: 10px;
+    }
+
+    .port_overlay {
+        border-radius: 10px;
+    }
+
+    .port_img {
+        border-radius: 20px;
+    }
+
+    /* TEAM part is Start ========================= */
+    .team_headtext h2 {
+        padding: 30px 0 0 0;
+        font-size: 24px;
+    }
+
+    .team_headtext img {
+        padding: 0 0 0 330px;
+    }
+
+    .team_items {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        justify-content: center;
+    }
+
+    .team_content {
+        width: 200px;
+        margin-bottom: 20px;
+    }
+
+    .team_content .team_img img {
+        width: 210px;
+    }
+
+    .team_overlay i {
+        width: 50px;
+        height: 50px;
+        font-size: 60px;
+        margin: 30px 5px 10px;
+        border: 5px solid #fff;
+        padding-top: 30px;
+    }
+
+    /* Testimonial part is Start ========================= */
+    .Testimonial_headtext h2 {
+        padding: 30px 0 0 0;
+        font-size: 24px;
+    }
+
+    .Testimonial_headtext img {
+        padding: 0 0 0 280px;
+    }
+    .testi_items .testi_text{
+        width: 330px;
+    }
+    .testi_items img {
+        padding-bottom: 45px;
+    }
+
+    /* Footer part is Start ========================= */
+    .footer {
+        width: 680px;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        row-gap: 20px;
+    }
+
+    .filck_img img {
+        width: 90px;
+        margin-bottom: 15px;
+    }
+
+    /* ========================= */
+}
+
+/* ############################################################################ */
+
+@media(min-width:992px) and (max-width:1199.99px) {}
+
+/* ############################################################################ */
+
+@media(min-width:1200px) and (max-width:1400px) {}
+
+
+/* ==================================    The END    =============================== */
